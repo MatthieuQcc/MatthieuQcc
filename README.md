@@ -33,7 +33,7 @@
 
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=tensorflow"/>]()
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=pytorch"/>]()
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=pandas"/>]()
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sklearn"/>]()
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>]()
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>]()
 
