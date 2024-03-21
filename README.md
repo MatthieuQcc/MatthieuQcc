@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;Matthieu+Quaccia;I'm+a+Software+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;Matthieu+Quaccia;)](https://git.io/typing-svg)
 
-<h3 align="center">"Talk is cheap. Show me the code"</h3>
-<h4 align="center">- Linus Torvalds -</h4>
+<h3 align="center">"Graduated from National Institute of Applied Sciences (INSA) of Toulouse"</h3>
+<h4 align="center">Data Sciences and Deep Learning enthusiast</h4>
 
 <br>
 
@@ -54,6 +54,7 @@ Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `G
 `Bulma` `MongoDB` `ElectronJS`
 
 <br>
+
 ## Contact me:
 <div>
 <a href = "mailto: matthieu.quaccia@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
