@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;Matthieu+Quaccia;)](https://git.io/typing-svg)
 
-<h3 align="center">Graduated from National Institute of Applied Sciences (INSA) of Toulouse</h3>
-<h4 align="center">Data Sciences and Deep Learning enthusiast</h4>
-<h4 align="center">Research Engineer at ENAC</h4>
+<h3 align="center">🎓 Graduated from National Institute of Applied Sciences (INSA) of Toulouse</h3>
+<h4 align="center">🤖 Data Sciences and Deep Learning enthusiast</h4>
+<h4 align="center">👨‍💻 Research Engineer at ENAC</h4>
 
 
 <br>
